@@ -1,32 +1,38 @@
-# React Dashboard
+# 📊 React Admin Dashboard
 
-A modern, responsive admin dashboard built using **React.js**. This project demonstrates component structuring, routing, reusable UI elements, and dynamic data rendering.
-
-## 🔗 Live Demo
-
-🌐 [View Live on Netlify](https://688d3fc5756f3209eea50e06--silver-sable-97c794.netlify.app/)
-
-## 📁 Repository
-
-🔗 [GitHub Repository](https://github.com/shreyamorti28/react-dashboard)
+🔗 **[Live Demo on Netlify](https://688d3fc5756f3209eea50e06--silver-sable-97c794.netlify.app/)**
 
 ---
 
-## ✨ Features
+## 🏷 Task Title
 
-- ⚛️ Built with React (Functional Components + Hooks)
-- 📁 Clean component structure
-- 📊 Dashboard widgets and charts
-- 📱 Fully responsive UI
-- 🌈 Tailwind CSS for fast and beautiful styling
-- 🔄 React Router for page navigation
-- ♻️ Reusable components
+Build and deploy a responsive **React Admin Dashboard** using reusable components, routing, and Tailwind CSS.
 
 ---
 
-## 🚀 Getting Started
+## 🛠 Tech Stack Used
 
-### 1. Clone the repository
+- **Frontend**: React.js  
+- **Styling**: Tailwind CSS  
+- **Routing**: React Router  
+- **Build Tool**: Vite  
+- **Deployment**: Netlify  
+
+---
+
+## 📌 Brief Explanation of My Approach
+
+- Set up a React project using **Vite** for fast builds.  
+- Used **Tailwind CSS** to design a responsive layout.  
+- Implemented navigation with **React Router**.  
+- Created modular and reusable components for maintainability.  
+- Deployed the application using **Netlify** with a public link for easy access.  
+
+---
+
+## ▶️ How to Run the Project Locally
+
+1. **Clone the Repository**
 
 ```bash
 git clone https://github.com/shreyamorti28/react-dashboard.git
