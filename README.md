@@ -1,4 +1,4 @@
-# 📊 React Admin Dashboard
+# 📊 React Dashboard
 
 🔗 **[Live Demo on Netlify](https://688d3fc5756f3209eea50e06--silver-sable-97c794.netlify.app/)**
 
